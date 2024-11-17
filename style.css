@@ -182,3 +182,13 @@ li{
     justify-content: center;
 
 }
+.nav1 span{
+    background-color: white;
+    border-radius: inherit;
+
+}
+.nav1{
+font-size: 22px;
+border-radius: 7px;
+margin-right: 5px;
+}
