@@ -34,6 +34,10 @@
     font-display: bold;
 }
 
+.carousel-image{
+    max-height: 80vh;
+} 
+
 .img2{
     width: 40vh;
     height: 60vh;
@@ -61,6 +65,9 @@ h4{
 
 .down{
     margin: 22px auto;
+    width: 70%;
+    height: 40vh;
+    vertical-align: middle;
 }
 .button1{
     text-decoration: none;
@@ -74,8 +81,9 @@ a{
 .wel{
     background-color: lightgoldenrodyellow;
     text-align: center;
-    height: 16vh;
+    height: 100%;
     width: 83%;
+    padding: 12px 0px;
 }
 .first{
     font-weight: bolder;
@@ -106,18 +114,19 @@ a{
 }
 .inp{
     width: 98%;
-    height: 6vh;
+    height: 30px;
 }
 .subs{
     width: 98%;
-    height: 6vh;
+    height: 33px;
     background-color: rgb(165, 161, 161);
     margin-top: 10px;
     color: white;
 }
 .m{
-    height: 100%;
-    width: 105%;
+    height: 74%;
+    width: 88%;
+    margin-top: 40px;
 }
 .footer1{
     width: 50%;
@@ -171,8 +180,21 @@ li{
     /* margin-bottom: 10px; */
     padding-top: 5px;
 }
+.button1 h3{
+    margin: 3px;
+}
+.button h6,.button1 h3 a{
+    margin: 0;
+    padding: 6px 12px;
+}
+.wel .first,.second{
+    margin: 0;
+}
+.nav-things:focus{
+color: white;
+}
 .pic{
-    height: 60vh;
+    height: 35vh;
 }
 .pics{
     width: 100%;
@@ -192,3 +214,4 @@ font-size: 22px;
 border-radius: 7px;
 margin-right: 5px;
 }
+
