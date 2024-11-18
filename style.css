@@ -65,8 +65,8 @@ h4{
 
 .down{
     margin: 22px auto;
-    width: 70%;
-    height: 40vh;
+    width: 75%;
+    height: 300px;
     vertical-align: middle;
 }
 .button1{
@@ -194,7 +194,7 @@ li{
 color: white;
 }
 .pic{
-    height: 35vh;
+    height: 250px;
 }
 .pics{
     width: 100%;
@@ -216,4 +216,7 @@ margin-right: 5px;
 }
 .ull ul{
     padding-left: 0;
+}
+.sub-box2{
+    margin: 0px auto;
 }
